@@ -1,4 +1,4 @@
-name: Infrastructure Deployment Pipeline
+name: Infrastructure Deletion Pipeline
 
 on: 
   workflow_dispatch:
